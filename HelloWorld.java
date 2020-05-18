@@ -4,5 +4,6 @@ public class HelloWorld{
     System.out.println("Hello World!");
     System.out.println("Pierre says "+Util.translateToFrench("Hello World!"));
     System.out.println("Branch addition");
+    System.out.println("Another potential Branch addition");
   }
 }
